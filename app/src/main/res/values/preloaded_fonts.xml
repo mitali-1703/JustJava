@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/alike_angular</item>
+        <item>@font/arbutus</item>
+        <item>@font/arizonia</item>
+        <item>@font/artifika</item>
+        <item>@font/biorhyme_extralight</item>
+        <item>@font/bree_serif</item>
+        <item>@font/carter_one</item>
+        <item>@font/chewy</item>
+        <item>@font/kotta_one</item>
+    </array>
+</resources>
